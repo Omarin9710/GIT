@@ -1,0 +1,1 @@
+En este folder deberían ir todas las referencias que hayan usado para diseñar. Imágenes, links, inspiración, etc.

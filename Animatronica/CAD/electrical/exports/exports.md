@@ -1,0 +1,1 @@
+Pongan aquí todos sus archivos que hayan exportado para fabricación. Sus gerbers y planos y demás.

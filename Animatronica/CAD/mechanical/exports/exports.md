@@ -1,0 +1,1 @@
+En este folder colocan todos sus archivos .STL o cualquier otro tipo de _export_ que hayan hecho. También pueden agregar otro folder para exportar sus renders, visualizaciones y videos de ensamblajes.

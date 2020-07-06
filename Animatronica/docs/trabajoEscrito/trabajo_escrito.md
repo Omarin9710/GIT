@@ -1,0 +1,1 @@
+Aquí ponen sus archivos de Latex (si los descargan) y sus documentos .pdf cuando lo vayan exportando. También sus referencias de datos como tablas, imágenes, etc.

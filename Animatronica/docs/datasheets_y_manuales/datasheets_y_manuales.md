@@ -1,0 +1,1 @@
+En este folder deben ir todos los datasheets y manuales que hayan utilizado para desarrollar su proyecto. Hagan una estructura de folders que tenga sentido y pónganle nombres a los archivos de forma que sea  fácil encontrarlos.

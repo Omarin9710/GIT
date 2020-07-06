@@ -1,0 +1,1 @@
+En este folder deben ir todos los archivos originales de diseño de sus PCBs.
